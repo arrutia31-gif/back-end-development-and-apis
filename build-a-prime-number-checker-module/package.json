@@ -1,0 +1,13 @@
+{
+  "name": "prime-checker-module",
+  "version": "1.0.0",
+  "description": "Un módulo para verificar números primos",
+  "keywords": [
+    "prime",
+    "math",
+    "checker"
+  ],
+  "author": "Maxi",
+  "license": "MIT",
+  "type": "commonjs"
+}
